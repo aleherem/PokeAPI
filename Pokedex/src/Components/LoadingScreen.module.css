@@ -1,0 +1,17 @@
+.loadingScreen{
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    background: linear-gradient(105deg,
+    rgba(184, 203, 237, 1) 0%,
+    rgba(222, 245, 221, 1) 100%
+    );
+}
+
+.loadingScreenIcon{
+    width: 30%;
+    height: 30%;
+    max-width: 200px;
+    max-height: 200px;
+    object-fit: contain;
+}

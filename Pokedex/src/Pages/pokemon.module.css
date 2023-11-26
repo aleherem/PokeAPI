@@ -1,0 +1,44 @@
+.pokemon{
+    height: inherit;
+    background: linear-gradient(105deg,
+    rgba(36, 199, 4, 0.938) 0%,
+    rgb(160, 196, 246) 100%);
+}
+
+.pokeballButton{
+    border: none;
+    cursor: pointer;
+    outline: none;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(105deg,
+    rgba(184, 203, 237, 1) 0%,
+    rgba(222, 245, 221, 1) 100%
+    );;
+    padding: 25px 50px 25px 50px;
+}
+
+.pokeballImg{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
+.pokemonInfo{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-weight: 500;
+   margin: 70px 0;
+}
+
+.pokemonInfoImg{
+    width: 150px;
+    margin: 5px 0;;
+}
+
+.pokemonTittle{
+    margin: 5px 5px;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
