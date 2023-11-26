@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-router-dom": "^6.14.2"
+  },
+  "devDependencies": {
+    "typescript-plugin-css-modules": "^5.0.1"
+  }
+}
