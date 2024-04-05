@@ -29,4 +29,4 @@ Para poder usar el codigo, usa este repo como template
 
 ## Credits
 
-- [Manuel Sanchez](https://www.udemy.com/course/crea-una-pokedex-con-reactjs-y-typescript)
+- [Manuel Sanchez](https://www.udemy.com/course/crea-una-pokedex-con-reactjs-y-typescript) Curso en udemy TypeScript
